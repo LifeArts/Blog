@@ -48,10 +48,6 @@ a small {
 .wrapper {
   width:860px;
   margin:0 auto;
-  h1.msg {font-family: "ＭＳ ゴシック",sans-serif; }
-  h1.msm {font-family: "ＭＳ 明朝",serif; }
-  h1.inp {font-family: Impact,Charcoal; }
-
 }
 
 blockquote {
