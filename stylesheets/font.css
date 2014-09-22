@@ -1,0 +1,15 @@
+/*
+    sans-serif･･････ゴシック系のフォント
+    serif････････････明朝系のフォント
+    cursive･････････筆記体・草書体のフォント
+    fantasy･････････装飾的なフォント
+    monospace･････等幅フォント
+    <link rel="stylesheet" href="sample.css" type="text/css">
+*/
+p.msg {font-family: "ＭＳ ゴシック",sans-serif; }
+p.msm {font-family: "ＭＳ 明朝",serif; }
+p.imp {font-family: Impact,Charcoal; }
+
+h1.msg {font-family: "ＭＳ ゴシック",sans-serif; }
+h1.msm {font-family: "ＭＳ 明朝",serif; }
+h1.imp {font-family: Impact,Charcoal; }
